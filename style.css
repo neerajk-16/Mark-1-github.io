@@ -1,0 +1,16 @@
+*{
+    color:#B33F40 ;
+}
+body{
+    background-color:#171717 ;
+    border-style: solid;
+    border-color: red;
+    width: 80%;
+    
+    margin-left: 50%;
+}
+#raj{
+    color: #B33F40;
+    background-color:#171717 ;
+    font-size: larger;
+}
