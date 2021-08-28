@@ -1,0 +1,54 @@
+
+
+.a {
+    background-color: #171717;
+    width: 75%;
+    margin-top: 1%;
+    border-style: solid;
+    border-color: #B33F40;
+    margin: auto;
+}
+.b{
+    width: 75%;
+    margin-top: 20px;
+    margin: auto;
+}
+
+h1{
+    color:#B33F40;
+    text-align: center;
+    font-size: 30px;
+   
+}
+
+button{
+    color:#B33F40;
+    font-size: 30px;
+    background-color: #171717;
+}
+
+
+
+
+*{
+    color:#B33F40 ;
+}
+body{
+    background-color:#171717 ;
+    border-style: solid;
+    border-color: red;
+    width: 80%;
+    
+    margin-left: 50%;
+}
+#raj{
+    color: #B33F40;
+    background-color:#171717 ;
+    font-size: larger;
+}
+body{
+    background-color: black;
+}
+
+
+
